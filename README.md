@@ -8,12 +8,13 @@ We perform extensive experiments on VOT-TIR2017 dataset. We show that a network 
 # Instructions
 
 
-- Download pretrain models[Google driver](https://drive.google.com/file/d/1e7Pw-m-DgAiB_aQnNUUwBRVFc2izRiRw/view?usp=sharing); [Tencent qcloud](https://share.weiyun.com/5mBsISh)
+- Download pretrain models:
+
+[VGG model](https://drive.google.com/file/d/1e7Pw-m-DgAiB_aQnNUUwBRVFc2izRiRw/view?usp=sharing);
+
+[ResNet model](https://drive.google.com/file/d/1gdcd1OSfz8LnOjea3AtYqp9UTtn61EST/view?usp=sharing)
 
 
 
-VGG model:
-
-
-
-Resnet model:
+# Contact
+If you run into any problems with this code, please submit a bug report on the Github site of the project. For another inquries pleace contact with me: lichao@cvc.uab.es
