@@ -8,9 +8,9 @@ We perform extensive experiments on VOT-TIR2017 dataset. We show that a network 
 # Instructions
 
 
-- Download pretrain models:
+- Download fine-tuned models:
 
-[VGG model](https://drive.google.com/file/d/1e7Pw-m-DgAiB_aQnNUUwBRVFc2izRiRw/view?usp=sharing);
+[VGG model](https://drive.google.com/file/d/1e7Pw-m-DgAiB_aQnNUUwBRVFc2izRiRw/view?usp=sharing)
 
 [ResNet model](https://drive.google.com/file/d/1gdcd1OSfz8LnOjea3AtYqp9UTtn61EST/view?usp=sharing)
 
