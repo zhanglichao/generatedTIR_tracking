@@ -47,4 +47,4 @@ We perform extensive experiments on VOT-TIR2017 dataset. We show that a network 
 
 
 # Contact
-If you run into any problems with this code, please submit a bug report on the Github site of the project. For another inquries pleace contact with me: lichao@cvc.uab.es
+For further inquries please contact with me: lichao@cvc.uab.es. Or submit a bug report on the Github site of the project.
