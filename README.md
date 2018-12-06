@@ -1,6 +1,4 @@
-# Synthetic data generation for end-to-end thermal infrared tracking
-
-# Mix-and-match-networks
+# Synthetic data generation for end-to-end TIR tracking
 ### [[paper]](https://arxiv.org/pdf/1806.01013.pdf)
 
 # Instructions
@@ -8,6 +6,7 @@ This project is to transfer RGB tracking videos to TIR tracking videos in order 
 We give two kind of models corresponding for two-stage of our porject (The generated model training stage and tracker fine-tuning stage).
 
 
+# Analysis for RGB and TIR
 - Average activation of filters from the first layer of pre-trained AlexNet on the test set of KAIST [1] for RGB and TIR images :
 <br>
 <p align="center"><img width="60%" height='50%'src="aar.png" /></p>
@@ -18,7 +17,7 @@ We give two kind of models corresponding for two-stage of our porject (The gener
 <p align="center"><img width="50%" height='50%'src="histgrad.png" /></p>
 
 
-
+# Models
 - Download generated models:
 
 [pix2pix model](https://drive.google.com/file/d/1qSISMRN6w9EUUGz2-FQIVUCxRKphy-Ra/view?usp=sharing)
