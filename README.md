@@ -1,4 +1,4 @@
-# Synthetic data generation for end-to-end TIR tracking [[paper]](https://arxiv.org/pdf/1806.01013.pdf)
+## Synthetic data generation for end-to-end TIR tracking [[paper]](https://arxiv.org/pdf/1806.01013.pdf)
 
 ## Instructions
 This project is to transfer RGB tracking videos to TIR tracking videos in order to complement the TIR data for training. 
