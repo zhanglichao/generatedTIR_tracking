@@ -7,21 +7,22 @@ We perform extensive experiments on VOT-TIR2017 dataset. We show that a network 
 
 # Instructions
 
-- Average activation of filters from the first layer of pre-trained AlexNet on the test set of KAIST [1] for RGB and TIR images. :
+- Average activation of filters from the first layer of pre-trained AlexNet on the test set of KAIST [1] for RGB and TIR images :
 <br>
 <p align="center"><img width="60%" height='50%'src="aar.png" /></p>
 
 
-- Histogram of the gradient magnitude for real and synthetic TIR data computed on the test set of KAIST[1]. :
+- Histogram of the gradient magnitude for real and synthetic TIR data computed on the test set of KAIST[1] :
 <br>
-<p align="center"><img width="60%" height='50%'src="histgrad.png" /></p>
+<p align="center"><img width="50%" height='50%'src="histgrad.png" /></p>
 
 
 
 - Download generated models:
+
 [pix2pix model](https://drive.google.com/file/d/1qSISMRN6w9EUUGz2-FQIVUCxRKphy-Ra/view?usp=sharing)
 
-[Cyclegan model A](https://drive.google.com/file/d/1CdhjXZvFUvzuJbt6RyKxlMuKOLYlL6ex/view?usp=sharing)
+[Cyclegan model A](https://drive.google.com/file/d/1CdhjXZvFUvzuJbt6RyKxlMuKOLYlL6ex/view?usp=sharing); 
 [Cyclegan model B](https://drive.google.com/file/d/1N3mFsiSwCjUrBfy7nNCejhK0bYmvCtyJ/view?usp=sharing)
 
 - Download fine-tuned models:
