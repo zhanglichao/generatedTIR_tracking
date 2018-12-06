@@ -22,16 +22,19 @@ We perform extensive experiments on VOT-TIR2017 dataset. We show that a network 
 
 [pix2pix model](https://drive.google.com/file/d/1qSISMRN6w9EUUGz2-FQIVUCxRKphy-Ra/view?usp=sharing)
 
-[Cyclegan model A](https://drive.google.com/file/d/1CdhjXZvFUvzuJbt6RyKxlMuKOLYlL6ex/view?usp=sharing); 
-[Cyclegan model B](https://drive.google.com/file/d/1N3mFsiSwCjUrBfy7nNCejhK0bYmvCtyJ/view?usp=sharing)
+[CycleGAN model A](https://drive.google.com/file/d/1CdhjXZvFUvzuJbt6RyKxlMuKOLYlL6ex/view?usp=sharing); 
+[CycleGAN model B](https://drive.google.com/file/d/1N3mFsiSwCjUrBfy7nNCejhK0bYmvCtyJ/view?usp=sharing)
+
+- Video examples for transferred models (from left to right: RGB, ground-truth, pix2pix, CycleGAN) :
+
+[Video](https://drive.google.com/file/d/1kGoH4qfOcOpHQHxNr4tucGK4LCT-AzLi/view?usp=sharing)
+
 
 - Download fine-tuned models:
 
 [VGG model](https://drive.google.com/file/d/1J_jl6DMRL0f503TOwRKHOsNH6DnJYyqM/view?usp=sharing)
 
 [ResNet model](https://drive.google.com/file/d/1gdcd1OSfz8LnOjea3AtYqp9UTtn61EST/view?usp=sharing)
-
-
 
 
 
