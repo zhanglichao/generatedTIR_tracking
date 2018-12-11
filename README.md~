@@ -11,7 +11,7 @@ We give two kind of models corresponding for two-stage of our porject (The gener
 - Results for the two image translation methods considered: pix2pix and CycleGAN. The video frames are taken from the test set of KAIST[1].
 
 <br>
-<p float="center">
+<p align="center">
   <img src="/aar.png" width="40%" />
   <img src="/histgrad.png" width="35%" /> 
 </p>
