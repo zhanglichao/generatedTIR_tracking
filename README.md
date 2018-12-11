@@ -8,11 +8,10 @@ We give two kind of models corresponding for two-stage of our porject (The gener
 ## Analysis for RGB and TIR
 <br>
 <p align="center">
-  <img width="80%" height='80%'src="Ganres.png" alt/>
-  <em>Results for the two image translation methods considered: pix2pix and CycleGAN. On the test set of KAIST[1].</em>
+  <img width="80%" height='80%'src="Ganres.png" />
 </p>
 <p>
-    <em>image_caption</em>
+    <em>Results for the two image translation methods considered: pix2pix and CycleGAN. On the test set of KAIST[1].</em>
 </p>
 
 
