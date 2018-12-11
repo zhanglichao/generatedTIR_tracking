@@ -16,8 +16,7 @@ We give two kind of models corresponding for two-stage of our porject (The gener
   <img src="/histgrad.png" width="35%" /> 
 </p>
 
-- Average activation of filters from the first layer of pre-trained AlexNet.
-- Histogram of the gradient magnitude for real and synthetic TIR data.
+- The left is the Average activation of filters from the first layer of pre-trained AlexNet. The right is the Histogram of the gradient magnitude for real and synthetic TIR data.
 
 
 ## Models
