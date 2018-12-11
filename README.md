@@ -6,6 +6,9 @@ We give two kind of models corresponding for two-stage of our porject (The gener
 
 
 ## Analysis for RGB and TIR
+<br>
+<p align="center"><img width="60%" height='50%'src="1.pdf" /></p>
+
 - Average activation of filters from the first layer of pre-trained AlexNet on the test set of KAIST [1] for RGB and TIR images :
 <br>
 <p align="center"><img width="60%" height='50%'src="aar.png" /></p>
