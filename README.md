@@ -13,6 +13,10 @@ We give two kind of models corresponding for two-stage of our porject (The gener
 ![alt-text-1](aar.png "title-1") ![alt-text-2](histgrad.png "title-2")
 
 <br>
+<p float="left">
+  <img src="/aar.png" width="40" />
+  <img src="/histgrad.png" width="35" /> 
+</p>
 <p align="left"><img width="40%" height='40%'src="aar.png" /> <p align="right"><img width="35%" height='30%'src="histgrad.png" /></p>
 - Average activation of filters from the first layer of pre-trained AlexNet.
 - Histogram of the gradient magnitude for real and synthetic TIR data.
