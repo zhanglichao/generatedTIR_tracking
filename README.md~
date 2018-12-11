@@ -11,9 +11,9 @@ We give two kind of models corresponding for two-stage of our porject (The gener
   <img width="80%" height='80%'src="Ganres.png" />
   <em>Results for the two image translation methods considered: pix2pix and CycleGAN. On the test set of KAIST[1].</em>
 </p>
-img + em { }
-- Results for the two image translation methods considered: pix2pix and CycleGAN. On the test set of KAIST[1].
-
+<p>
+    <em>image_caption</em>
+</p>
 
 
 <br>
