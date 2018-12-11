@@ -2,7 +2,7 @@
 
 ## Instructions
 This project is to transfer RGB tracking videos to TIR tracking videos in order to complement the TIR data for training. 
-We give two kind of models corresponding for two-stage of our porject (The generated model training stage and tracker fine-tuning stage).
+We give two kinds of models corresponding for two-stage of our porject (The transferring stage and the fine-tuning stage).
 
 
 ## Analysis for RGB and TIR

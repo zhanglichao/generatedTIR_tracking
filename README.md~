@@ -2,7 +2,7 @@
 
 ## Instructions
 This project is to transfer RGB tracking videos to TIR tracking videos in order to complement the TIR data for training. 
-We give two kind of models corresponding for two-stage of our porject (The generated model training stage and tracker fine-tuning stage).
+We give two kinds of models corresponding for two-stage of our porject (The transferring stage and the fine-tuning stage).
 
 
 ## Analysis for RGB and TIR
@@ -23,7 +23,6 @@ We give two kind of models corresponding for two-stage of our porject (The gener
 <p align="center">
   <em>The left is the Average activation of filters from the first layer of pre-trained AlexNet. The right is the Histogram of the gradient magnitude for real and synthetic TIR data.</em>
 </p>
-- 
 
 
 ## Models
