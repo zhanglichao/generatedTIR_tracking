@@ -10,12 +10,11 @@ We give two kind of models corresponding for two-stage of our porject (The gener
 <p align="center"><img width="80%" height='80%'src="Ganres.png" /></p>
 - Results for the two image translation methods considered: pix2pix and CycleGAN. The video frames are taken from the test set of KAIST[1].
 
-![alt-text-1](aar.png "title-1") ![alt-text-2](histgrad.png "title-2")
 
 <br>
 <p float="left">
-  <img src="/aar.png" width="40" />
-  <img src="/histgrad.png" width="35" /> 
+  <img src="/aar.png" width="40%" />
+  <img src="/histgrad.png" width="35%" /> 
 </p>
 <p align="left"><img width="40%" height='40%'src="aar.png" /> <p align="right"><img width="35%" height='30%'src="histgrad.png" /></p>
 - Average activation of filters from the first layer of pre-trained AlexNet.
