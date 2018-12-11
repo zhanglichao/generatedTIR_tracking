@@ -11,12 +11,10 @@ We give two kind of models corresponding for two-stage of our porject (The gener
 
 - Average activation of filters from the first layer of pre-trained AlexNet on the test set of KAIST [1] for RGB and TIR images :
 <br>
-<p align="center"><img width="60%" height='50%'src="aar.png" /></p>
-
+<p align="center"><img width="40%" height='40%'src="aar.png" /></p>
+<p align="center"><img width="40%" height='40%'src="histgrad.png" /></p>
 
 - Histogram of the gradient magnitude for real and synthetic TIR data computed on the test set of KAIST[1] :
-<br>
-<p align="center"><img width="50%" height='50%'src="histgrad.png" /></p>
 
 
 ## Models
