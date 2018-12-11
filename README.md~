@@ -8,11 +8,11 @@ We give two kind of models corresponding for two-stage of our porject (The gener
 ## Analysis for RGB and TIR
 <br>
 <p align="center"><img width="80%" height='80%'src="Ganres.png" /></p>
+- Results for the two image translation methods considered: pix2pix and CycleGAN. The video frames are taken from the test set of KAIST[1].
 
-- Average activation of filters from the first layer of pre-trained AlexNet on the test set of KAIST [1] for RGB and TIR images :
 <br>
-<p align="left"><img width="40%" height='40%'src="aar.png" /></p> <p align="right"><img width="35%" height='30%'src="histgrad.png" /></p>
-
+<p align="left"><img width="40%" height='40%'src="aar.png" /> <p align="right"><img width="35%" height='30%'src="histgrad.png" /></p>
+- Average activation of filters from the first layer of pre-trained AlexNet on the test set of KAIST[1] for RGB and TIR images :
 - Histogram of the gradient magnitude for real and synthetic TIR data computed on the test set of KAIST[1] :
 
 
