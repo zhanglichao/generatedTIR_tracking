@@ -44,7 +44,11 @@ We give two kinds of models corresponding for two-stage of our porject (The tran
 
     [ResNet model](https://drive.google.com/file/d/1gdcd1OSfz8LnOjea3AtYqp9UTtn61EST/view?usp=sharing)
 
+## Results
+- Download results to compare:
 
+    [VGG result](https://drive.google.com/file/d/1gqJzaFPNX2rB7f907B8uzU691bi8cy82/view?usp=sharing)
+    [ResNet result](https://drive.google.com/file/d/1bY0Rl8CXO8PmU8PzoZxrnYvu7QkbYvrF/view?usp=sharing)
 
 ## References
 [1] Hwang, Soonmin and Park, Jaesik and Kim, Namil and Choi, Yukyung and So Kweon, In.  
