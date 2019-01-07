@@ -38,7 +38,7 @@ We give two kinds of models corresponding for two-stage of our porject (The tran
     [Video](https://drive.google.com/file/d/1kGoH4qfOcOpHQHxNr4tucGK4LCT-AzLi/view?usp=sharing)
 
 
-- Download fine-tuned models:
+- Download fine-tuned models (after download, put them in the file ECO_tir/feature_extraction/networks):
 
     [VGG model](https://drive.google.com/file/d/1J_jl6DMRL0f503TOwRKHOsNH6DnJYyqM/view?usp=sharing)
 
