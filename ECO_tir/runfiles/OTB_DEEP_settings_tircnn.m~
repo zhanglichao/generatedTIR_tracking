@@ -98,7 +98,7 @@ params.debug = 0;                       % Do full debug visualization
 
 % GPU
 params.use_gpu = true;                 % Enable GPU or not
-params.gpu_id = [1];                     % Set the GPU id, or leave empty to use default
+params.gpu_id = [5];                     % Set the GPU id, or leave empty to use default
 
 % Initialize
 params.seq = seq;
