@@ -1,0 +1,37 @@
+------------ Options -------------
+aspect_ratio: 1.0
+batchSize: 1
+checkpoints_dir: ./checkpoints
+dataroot: /home/lichao/tracking/datasets/GOT-10k/train
+dataset_mode: single
+display_id: 1
+display_port: 8097
+display_winsize: 256
+fineSize: 256
+gpu_ids: [3]
+how_many: 10000000
+init_type: normal
+input_nc: 3
+isTrain: False
+loadSize: 256
+max_dataset_size: inf
+model: test
+nThreads: 2
+n_layers_D: 3
+name: thermal_pix2pix_1ch_all_batch4
+ndf: 64
+ngf: 64
+no_dropout: True
+no_flip: False
+norm: batch
+ntest: inf
+output_nc: 1
+phase: test
+resize_or_crop: resize_and_crop
+results_dir: /home/lichao/tracking/datasets/GOT-10k_i_/train
+serial_batches: False
+which_direction: AtoB
+which_epoch: 25
+which_model_netD: basic
+which_model_netG: unet_256
+-------------- End ----------------
