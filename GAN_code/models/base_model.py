@@ -50,7 +50,13 @@ class BaseModel():
     def load_network(self, network, network_label, epoch_label):
         save_filename = '%s_net_%s.pth' % (epoch_label, network_label)
         save_path = os.path.join(self.save_dir, save_filename)
-        network.load_state_dict(torch.load(save_path))
+        # network.load_state_dict(torch.load(save_path)) # otherwise still this line
+        # it seems many error happen here
+        model_fix = dict() 
+        model0=torch.load(save_path)['state_dict'] # not sure need ['state_dict'] or not
+        for i in model0.keys(): 
+            model_fix['.'.join(i.split('.')[1:])] = model0[i] 
+        network.load_state_dict(model_fix) 
 
     # update learning rate (called once every epoch)
     def update_learning_rate(self):
